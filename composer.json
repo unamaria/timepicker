@@ -1,0 +1,7 @@
+{
+  "name": "drupal/timepicker",
+  "description": "Adds a new timepicker option for datetime fields, providing a better UI for the timepicker.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/unamaria/timepicker"
+}

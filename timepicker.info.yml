@@ -1,0 +1,6 @@
+name: Timepicker
+description: 'Adds a new timepicker option for datetime fields, providing a better UI for the timepicker.'
+package: Custom
+
+type: module
+core: 8.x
